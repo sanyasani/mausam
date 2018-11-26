@@ -76,6 +76,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		224EE7B821AC06230094F063 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		224EE7BA21AC06760094F063 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		224EE7BC21AC06980094F063 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				22D37B4B21A97F050040981E /* ViewController.swift */,
+				224EE7B621ABFBED0094F063 /* WeatherinfoViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
 		22D37B3D21A97F040040981E = {
 			isa = PBXGroup;
 			children = (
@@ -99,10 +122,11 @@
 		22D37B4821A97F050040981E /* Mausam */ = {
 			isa = PBXGroup;
 			children = (
+				224EE7BC21AC06980094F063 /* ViewControllers */,
+				224EE7BA21AC06760094F063 /* Services */,
+				224EE7B821AC06230094F063 /* Models */,
 				22D37B4921A97F050040981E /* AppDelegate.swift */,
-				22D37B4B21A97F050040981E /* ViewController.swift */,
 				22D37B4D21A97F050040981E /* Main.storyboard */,
-				224EE7B621ABFBED0094F063 /* WeatherinfoViewController.swift */,
 				22D37B5021A97F060040981E /* Assets.xcassets */,
 				22D37B5221A97F060040981E /* LaunchScreen.storyboard */,
 				22D37B5521A97F060040981E /* Info.plist */,
