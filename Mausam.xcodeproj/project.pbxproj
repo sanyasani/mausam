@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22166B6F21AD4A35000C8052 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22166B6E21AD4A35000C8052 /* Main.swift */; };
 		224EE7B721ABFBED0094F063 /* WeatherinfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224EE7B621ABFBED0094F063 /* WeatherinfoViewController.swift */; };
 		224EE7BE21AC0B550094F063 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224EE7BD21AC0B550094F063 /* City.swift */; };
 		224EE7C021AC0BB90094F063 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224EE7BF21AC0BB90094F063 /* Weather.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		22166B6E21AD4A35000C8052 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
 		224EE7B621ABFBED0094F063 /* WeatherinfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherinfoViewController.swift; sourceTree = "<group>"; };
 		224EE7BD21AC0B550094F063 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		224EE7BF21AC0BB90094F063 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				224EE7BF21AC0BB90094F063 /* Weather.swift */,
 				224EE7C121AC0C570094F063 /* Wind.swift */,
 				224EE7C321AC0E470094F063 /* Cloud.swift */,
+				22166B6E21AD4A35000C8052 /* Main.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 			files = (
 				22D37B4C21A97F050040981E /* ViewController.swift in Sources */,
 				22D37B4A21A97F050040981E /* AppDelegate.swift in Sources */,
+				22166B6F21AD4A35000C8052 /* Main.swift in Sources */,
 				224EE7BE21AC0B550094F063 /* City.swift in Sources */,
 				224EE7B721ABFBED0094F063 /* WeatherinfoViewController.swift in Sources */,
 				224EE7C421AC0E470094F063 /* Cloud.swift in Sources */,

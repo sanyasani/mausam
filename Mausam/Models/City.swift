@@ -15,4 +15,5 @@ struct City: Codable {
     let weather: [Weather]
     let wind: Wind
     let clouds: Clouds
+    let main: Main
 }
